@@ -1,1 +1,1 @@
-This is a code of simpler poker game in c.
+This is a code of simple poker game in c.
